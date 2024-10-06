@@ -1,4 +1,6 @@
-## Hi there 👋
+![cover_rounded](https://github.com/user-attachments/assets/59618f05-6e64-438d-8c90-10184f71fcd4)
+# Hi there 👋
+
 
 My name is **Bernie** and I starded this little project as a hobby to learn how to ✨ _code_ ✨ batch.
 
