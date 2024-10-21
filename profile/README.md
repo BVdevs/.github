@@ -2,10 +2,13 @@
 # Hi there 👋
 
 
-My name is **Bernie** and I starded this little project as a hobby to learn how to ✨ _code_ ✨ batch.
+Hi we are the BernieDevStudio and we're currently working on MyCMD
 
 I'm currently working🔨 on an app called [MyCMD](https://github.com/BernieDevStudio/MyCMD) an app that lets you do *nearly* everything on your machine💻.
 
+Members
+@BernieStoryStudio
+@VadSzil42
 -------
 Links:
 
