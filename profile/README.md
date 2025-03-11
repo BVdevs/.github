@@ -1,14 +1,13 @@
-![cover_rounded](https://github.com/user-attachments/assets/59618f05-6e64-438d-8c90-10184f71fcd4)
 # Hi there 👋
 
 
-Hi we are the BernieDevStudio and we're currently working on MyCMD
+Hi we are the BVdevstudio and we're currently working on MyCMD
 
-I'm currently working🔨 on an app called [MyCMD](https://github.com/BernieDevStudio/MyCMD) an app that lets you do *nearly* everything on your machine💻.
+We're currently working🔨 on an app called [MyCMD](https://github.com/BernieDevStudio/MyCMD) an app that lets you do *nearly* everything on your machine💻.
 
 Members
-@BernieStoryStudio
-@VadSzil42
+@ BernieStoryStudio
+@ VadSzil42
 -------
 Links:
 
